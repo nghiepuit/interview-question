@@ -119,3 +119,8 @@ const memoFnReturn = useMemo(fn, [dep]) // (2)
 
 1. Service worker vs web worker
 2. Service worker flow, push notification flow
+
+================================================================ DEPLOYMENT FLOW =================================================================
+
+1. What is docker, why, when, how to works ? Best practice, config ???
+2. Monitor tool ????
